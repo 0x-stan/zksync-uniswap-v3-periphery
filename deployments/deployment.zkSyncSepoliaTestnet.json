@@ -1,0 +1,10 @@
+{
+  "multicall2Address": "0x5Ca615F21Fa024D31903B2CB3F073596926F6272",
+  "tickLensAddress": "0x14E52258724CD941d2Ed22f5919AcD7F9d921173",
+  "nftDescriptorLibraryAddress": "0x50a64bC6b42e1c459Ed0F3b1Ba1ADaF4A8F776Be",
+  "nonfungibleTokenPositionDescriptorAddress": "0x8E9785a00270E15F81562c465838726fA22F12f3",
+  "nonfungibleTokenPositionManagerAddress": "0xD5785DCA238904a0f8E2dD1D381c8E3b59eBe737",
+  "v3MigratorAddress": "0x14B56738bCa9Dc1547beec37e3bdafc6dA7DF495",
+  "quoterV2Address": "0xf574A4F79Fc5bb3D6628b0D7ac40B208Ff1eFAAB",
+  "swapRouter02Address": "0x5c881D1042B60244cc35f2361665D36BdAE0DC4F"
+}

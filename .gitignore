@@ -1,5 +1,17 @@
 artifacts/
+artifacts-zk/
 cache/
+cache-zk/
 crytic-export/
 node_modules/
 typechain/
+typechain-types/
+deployments-zk/
+
+deployments/deployment.inMemoryNode.json
+
+.zksolc-libraries-cache/
+era_test_node.log
+
+# env
+.env
